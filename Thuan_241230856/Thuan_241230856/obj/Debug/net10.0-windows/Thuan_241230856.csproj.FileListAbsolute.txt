@@ -1,0 +1,7 @@
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\Thuan_241230856.Form1.resources
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\Thuan_241230856.csproj.GenerateResource.cache
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\Thuan_241230856.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\Thuan_241230856.AssemblyInfoInputs.cache
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\Thuan_241230856.AssemblyInfo.cs
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\Thuan_241230856.csproj.CoreCompileInputs.cache
+C:\Thuan_241230856\Thuan_241230856\Thuan_241230856\obj\Debug\net10.0-windows\QuanLyNhaHang.Form1.resources
